@@ -1,5 +1,5 @@
 # ASA_Scheduler
-Sheet Parsing and Sorting for Newcomb Centers and Services @ UVA
+Sheet Parsing and Sorting for Newcomb Centers and Services @ UVA.
 Made with the intent of organizing the layout of the sheets to make it convenient for the employees.
 And yes, to save paper!
 
