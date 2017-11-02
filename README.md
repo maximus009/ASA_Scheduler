@@ -14,12 +14,15 @@ You can view your previous uploaded and processed files on the same page.
 
 Create the folder you wish to expose.
 `$ mkdir web_folder`
+
 `$ cd web_folder`
+
 `$ python ../uploader.py <port_num>`
 
 Access it using <public_ip>:<port_num>
 
 To check the <public_ip>
+
 `$ ifconfig`
 
 ### Contact
