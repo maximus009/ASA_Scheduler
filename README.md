@@ -13,6 +13,7 @@ You can view your previous uploaded and processed files on the same page.
 ### How to run the server
 
 Create the folder you wish to expose.
+
 `$ mkdir web_folder`
 
 `$ cd web_folder`
