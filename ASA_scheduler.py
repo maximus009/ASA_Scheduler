@@ -1,5 +1,4 @@
 import xlrd, xlwt
-from scipy import stats
 import sys, os
 
 
