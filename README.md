@@ -10,6 +10,14 @@ Download the well-organized sheet.
 
 You can view your previous uploaded and processed files on the same page.
 
+#### Requirements
+1. xlwt
+2. xlrd
+
+Both are available on PyPI.
+
+`$ sudo pip install xlrd xlwt xlutils`
+
 ### How to run the server
 
 Create the folder you wish to expose.
