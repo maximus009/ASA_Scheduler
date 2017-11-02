@@ -1,8 +1,9 @@
 # ASA_Scheduler
-Sheet Parsing and Sorting for <a target=_blank href="https://newcomb.virginia.edu/">Newcomb Centers and Services</a> at the <a href="http://www.virginia.edu/" target=_blank>University of Virginia</a>.
+Sheet Parsing and Sorting for <a target=_blank href="https://newcomb.virginia.edu/">Newcomb Centers and Services</a> at the <a href="http://www.virginia.edu/" target=_blank>University of Virginia, while I was working there part-time</a>.
 
 Made with the intent of organizing the layout of the sheets to make it convenient for the employees.
 And yes, to save paper!
+
 
 ### Specific to Newcomb Hall. Not for Public use.
 
